@@ -4,13 +4,13 @@ import numpy as np
 from pytorch_transformers import BertForMultipleChoice, BertTokenizer, RobertaConfig, RobertaTokenizer
 from roberta_mc import RobertaForMultipleChoice
 from sklearn.metrics import accuracy_score
-from train_model import collate_data
+from finetune_model import collate_data
 
-def test(model, val_data, device):
+def test(model, test_data, device):
     model.eval()
     preds = []
     labels = []
-    for batch in tqdm(val_data):
+    for batch in tqdm(test_data):
         batch = tuple(t.to(device) for t in batch)
         with torch.no_grad():
             outputs = model(batch[0], token_type_ids=batch[1], attention_mask=batch[2])
@@ -58,8 +58,8 @@ def main(dataset_path, output_filepath, model_path, batch_size, max_seq_length):
 if __name__ == "__main__":
 
     dataset_path = '../data/diagnostic_dataset_1'
-    output_filepath = '../output/bert-ft-1-train_10000-testpreds1.jsonl'
-    model_path = '../models/bert-ft-1-train_10000'
+    output_filepath = '../output/bert-ft-1-testpreds1.jsonl'
+    model_path = '../models/bert-ft-1'
     batch_size = 64
     max_seq_length = 50
     

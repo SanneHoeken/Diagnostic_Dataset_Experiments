@@ -73,12 +73,16 @@ def train_model(model, model_path, optimizer, scheduler, train_data, val_data, e
         model, avg_train_loss = train(model, optimizer, scheduler, train_data, device)
         print(f"Average training loss: {avg_train_loss}")
 
-        accuracy = evaluate(model, val_data, device)
-        print(f"Accuracy: {accuracy}")
-        
-        if highest_acc == None or accuracy > highest_acc:
-            highest_acc = accuracy
+        if epochs < 2:
             model.save_pretrained(model_path)
+        
+        else:
+            accuracy = evaluate(model, val_data, device)
+            print(f"Accuracy: {accuracy}")
+            
+            if highest_acc == None or accuracy > highest_acc:
+                highest_acc = accuracy
+                model.save_pretrained(model_path)
 
 
 
@@ -129,15 +133,7 @@ def main(dataset_filepath,
     """
     DOCSTRING HERE
     """
-
-    with open(dataset_filepath+'/train_10000.jsonl', "r") as infile:
-        train_examples = [json.loads(line.strip('\n')) for line in infile.readlines()]
     
-    with open(dataset_filepath+'/val.jsonl', "r") as infile:
-        val_examples = [json.loads(line.strip('\n')) for line in infile.readlines()]
-
-    #gold = [example['answer'] for example in examples]
-
     if pretrained_model.startswith('bert'):
         model = BertForMultipleChoice.from_pretrained(pretrained_model)
         tokenizer = BertTokenizer.from_pretrained(pretrained_model)
@@ -147,9 +143,16 @@ def main(dataset_filepath,
         tokenizer = RobertaTokenizer.from_pretrained(pretrained_model)
 
     tokenizer.save_vocabulary(model_path)
-    
+
+    with open(dataset_filepath+'/train.jsonl', "r") as infile:
+        train_examples = [json.loads(line.strip('\n')) for line in infile.readlines()]
     train_data = collate_data(train_examples, tokenizer, max_seq_length, batch_size)
-    val_data = collate_data(val_examples, tokenizer, max_seq_length, batch_size, is_test=True)
+    val_data = None
+
+    if epochs > 1:
+        with open(dataset_filepath+'/val.jsonl', "r") as infile:
+            val_examples = [json.loads(line.strip('\n')) for line in infile.readlines()]
+        val_data = collate_data(val_examples, tokenizer, max_seq_length, batch_size, is_test=True)
     
     optimizer = AdamW(model.parameters(), lr=learning_rate)
     total_steps = len(train_data) * epochs
@@ -161,7 +164,7 @@ def main(dataset_filepath,
 if __name__ == "__main__":
 
     dataset_filepath = '../data/diagnostic_dataset_1'
-    model_path = '../models/bert-ft-1-train_10000'
+    model_path = '../models/bert-ft-1'
     pretrained_model = 'bert-base-uncased'
     batch_size = 64
     max_seq_length = 50
