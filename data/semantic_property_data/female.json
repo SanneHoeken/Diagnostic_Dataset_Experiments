@@ -1,0 +1,2366 @@
+{
+    "man": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "actor": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "prince": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "king": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "human": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "cockerel": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "robert": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "bull": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "peacock": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "uncle": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "brother": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "bitch": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "actress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "queen": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "woman": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "princess": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "nanny": {
+        "ml_label": null,
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "exclude",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 0.0,
+            "null": 1.0
+        }
+    },
+    "beauty": {
+        "ml_label": null,
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "exclude",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 0.0,
+            "null": 1.0
+        }
+    },
+    "knockout": {
+        "ml_label": null,
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "exclude",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 0.0,
+            "null": 1.0
+        }
+    },
+    "sexpot": {
+        "ml_label": null,
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "exclude",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 0.0,
+            "null": 1.0
+        }
+    },
+    "girl": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "sylph": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "cyprian": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "amazon": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "vamp": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "housewife": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "siren": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "coquette": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "nymph": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "dame": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "dowager": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "baggage": {
+        "ml_label": null,
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "exclude",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 0.0,
+            "null": 1.0
+        }
+    },
+    "widow": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "mistress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "missus": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "chit": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "lass": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "concubine": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "courtesan": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "flapper": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "maiden": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "dish": {
+        "ml_label": null,
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "exclude",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 0.0,
+            "null": 1.0
+        }
+    },
+    "damsel": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "granny": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "witch": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "temptress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "looker": {
+        "ml_label": null,
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "exclude",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 0.0,
+            "null": 1.0
+        }
+    },
+    "marchioness": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "gentlewoman": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "peri": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "begum": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "wife": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "baby": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "bird": {
+        "ml_label": null,
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "exclude",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 0.0,
+            "null": 1.0
+        }
+    },
+    "giraffe": {
+        "ml_label": null,
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "exclude",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 0.0,
+            "null": 1.0
+        }
+    },
+    "cat": {
+        "ml_label": null,
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "exclude",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 0.0,
+            "null": 1.0
+        }
+    },
+    "lassie": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "maid": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "wench": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "minx": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "tomboy": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "lady": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "babe": {
+        "ml_label": null,
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "exclude",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 0.0,
+            "null": 1.0
+        }
+    },
+    "scouter": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "harlot": {
+        "ml_label": null,
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "exclude",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 0.0,
+            "null": 1.0
+        }
+    },
+    "skirt": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "rover": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "bachelorette": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "mother": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "gal": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "doll": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "ballerina": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "countess": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "murderess": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "girlfriend": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "daughter": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "duchess": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "love": {
+        "ml_label": null,
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "exclude",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 0.0,
+            "null": 1.0
+        }
+    },
+    "niece": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "aunt": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "heiress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "socialite": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "molly": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "millionairess": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "housekeeper": {
+        "ml_label": null,
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "exclude",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 0.0,
+            "null": 1.0
+        }
+    },
+    "diva": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "mademoiselle": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "nun": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "cinderella": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "lover": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "adventuress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "governess": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "stepmother": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "stepsister": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "bride": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "grandmother": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "hostess": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "ogress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "dancer": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "inanna": {
+        "ml_label": null,
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "exclude",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 0.0,
+            "null": 1.0
+        }
+    },
+    "landlady": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "granddaughter": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "boyfriend": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "fanny": {
+        "ml_label": null,
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "exclude",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 0.0,
+            "null": 1.0
+        }
+    },
+    "waitress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "stepdaughter": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "suitor": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "fiance": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "heroine": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "husband": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "barmaid": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "housemaid": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "seductress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "noblewoman": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "showgirl": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "godmother": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "batman": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "batwoman": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "boar": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "sow": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "boy": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "sister": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "buck": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "doe": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "cow": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "businessman": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "businesswoman": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "chairman": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "chairwoman": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "dad": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "mom": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "mum": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "daddy": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "mommy": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "duke": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "emperor": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "empress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "father": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "fisherman": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "fisherwoman": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "fox": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "vixen": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "gentleman": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "madam": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "god": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "goddess": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "grandfather": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "grandpa": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "grandma": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "grandson": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "groom": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "headmaster": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "headmistress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "heir": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "hero": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "hound": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "lion": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "lioness": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "manager": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "manageress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "mister": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "miss": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "missis": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "mis'ess": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "mrs": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "ms": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "murderer": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "nephew": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "poet": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "poetess": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "policeman": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "policewoman": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "ram": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "ewe": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "rooster": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "hen": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "sculptor": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "sculptress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "sir": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "son": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "stallion": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "mare": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "stepfather": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "superman": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "superwoman": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "tiger": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "tigress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "valet": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "maidservant": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "chambermaid": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "handmaid": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "handmaiden": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "parlormaid": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "parlourmaid": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    },
+    "waiter": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "webmaster": {
+        "ml_label": "few",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "neg",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 0.0,
+            "few": 1.0,
+            "null": 0.0
+        }
+    },
+    "webmistress": {
+        "ml_label": "all",
+        "metric": "manual",
+        "hypothesis": true,
+        "rel_hyp": "pos",
+        "prop_hyp": 1.0,
+        "relations": {
+            "all": 1.0,
+            "few": 0.0,
+            "null": 0.0
+        }
+    }
+}

@@ -1,0 +1,6 @@
+John prefers the [POS] over the [NEG] because the _ [PROP].
+John replaced the [NEG] by the [POS] because the _ [PROP].
+John chose the [POS] instead of the [NEG] because the _ [PROP].
+John likes the [POS] but not the [NEG] because the _ [PROP].
+The [POS] is better than the [NEG] because the _ [PROP].
+The [POS] is worse than the [NEG] because the _ [PROP].

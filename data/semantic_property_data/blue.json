@@ -1,0 +1,3320 @@
+{
+    "butter": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "variability_open": 0.0,
+            "variability_limited": 0.0,
+            "impossible": 1.0,
+            "rare": 0.0,
+            "affording_activity": 0.0,
+            "typical_of_concept": 0.0,
+            "unusual": 0.14285714285714285,
+            "implied_category": 0.0,
+            "typical_of_property": 0.0,
+            "creative": 0.2857142857142857
+        }
+    },
+    "lemon": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.14285714285714285,
+            "creative": 0.42857142857142855,
+            "rare": 0.0,
+            "impossible": 1.0,
+            "implied_category": 0.0,
+            "typical_of_concept": 0.0,
+            "typical_of_property": 0.0,
+            "variability_open": 0.0,
+            "affording_activity": 0.0,
+            "variability_limited": 0.0
+        }
+    },
+    "dandelion": {
+        "ml_label": null,
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.5,
+        "metric": "prop_true",
+        "relations": {
+            "impossible": 0.5,
+            "unusual": 0.5,
+            "creative": 0.1,
+            "rare": 0.4
+        }
+    },
+    "zebra": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.8571428571428571,
+        "metric": "prop_true",
+        "relations": {
+            "variability_open": 0.0,
+            "unusual": 0.42857142857142855,
+            "implied_category": 0.0,
+            "typical_of_property": 0.0,
+            "rare": 0.2857142857142857,
+            "impossible": 0.8571428571428571,
+            "typical_of_concept": 0.0,
+            "variability_limited": 0.0,
+            "affording_activity": 0.0,
+            "creative": 0.7142857142857143
+        }
+    },
+    "balloon": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "impossible": 0.0,
+            "creative": 0.0,
+            "typical_of_concept": 0.3,
+            "rare": 0.0,
+            "variability_open": 1.0,
+            "affording_activity": 0.0,
+            "unusual": 0.0,
+            "variability_limited": 0.1,
+            "implied_category": 0.0,
+            "typical_of_property": 0.2
+        }
+    },
+    "cider": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.7142857142857143,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_property": 0.0,
+            "typical_of_concept": 0.0,
+            "implied_category": 0.0,
+            "unusual": 0.7142857142857143,
+            "creative": 0.2857142857142857,
+            "affording_activity": 0.0,
+            "variability_open": 0.0,
+            "rare": 0.42857142857142855,
+            "variability_limited": 0.2857142857142857,
+            "impossible": 0.5714285714285714
+        }
+    },
+    "grapefruit": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.5555555555555556,
+            "impossible": 0.6666666666666666,
+            "typical_of_property": 0.0,
+            "variability_open": 0.0,
+            "variability_limited": 0.0,
+            "typical_of_concept": 0.0,
+            "creative": 0.3333333333333333,
+            "rare": 0.3333333333333333,
+            "implied_category": 0.0,
+            "affording_activity": 0.0
+        }
+    },
+    "lawn": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "typical_of_concept": 0.0,
+            "impossible": 0.625,
+            "unusual": 0.6666666666666666,
+            "typical_of_property": 0.0,
+            "creative": 0.125,
+            "implied_category": 0.0,
+            "variability_open": 0.0,
+            "variability_limited": 0.1111111111111111,
+            "rare": 0.4444444444444444
+        }
+    },
+    "onion": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.625,
+        "metric": "prop_true",
+        "relations": {
+            "variability_open": 0.0,
+            "unusual": 0.375,
+            "typical_of_property": 0.0,
+            "impossible": 0.625,
+            "creative": 0.125,
+            "affording_activity": 0.0,
+            "rare": 0.25,
+            "variability_limited": 0.0,
+            "typical_of_concept": 0.0,
+            "implied_category": 0.0
+        }
+    },
+    "recorder": {
+        "ml_label": "few-some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.0,
+            "impossible": 0.0,
+            "creative": 0.0,
+            "typical_of_property": 0.0,
+            "variability_limited": 0.25,
+            "variability_open": 0.75,
+            "unusual": 0.75,
+            "implied_category": 0.0,
+            "rare": 0.75,
+            "affording_activity": 0.0
+        }
+    },
+    "salad": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.875,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "rare": 0.25,
+            "variability_limited": 0.0,
+            "creative": 0.5,
+            "typical_of_property": 0.0,
+            "typical_of_concept": 0.0,
+            "impossible": 0.875,
+            "unusual": 0.25,
+            "variability_open": 0.125,
+            "implied_category": 0.0
+        }
+    },
+    "fish": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.0,
+            "impossible": 0.0,
+            "implied_category": 0.25,
+            "affording_activity": 0.25,
+            "typical_of_property": 0.25,
+            "variability_limited": 0.25,
+            "rare": 0.375,
+            "unusual": 0.25,
+            "typical_of_concept": 0.25,
+            "variability_open": 1.0
+        }
+    },
+    "beet": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "impossible": 0.75,
+            "unusual": 0.25,
+            "rare": 0.125,
+            "creative": 0.25
+        }
+    },
+    "crab": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.875,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.0,
+            "creative": 0.25,
+            "rare": 0.625,
+            "implied_category": 0.0,
+            "impossible": 0.375,
+            "variability_limited": 0.375,
+            "typical_of_property": 0.0,
+            "unusual": 0.875,
+            "affording_activity": 0.0,
+            "variability_open": 0.0
+        }
+    },
+    "taxi": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.0,
+            "creative": 0.0,
+            "unusual": 0.625,
+            "affording_activity": 0.0,
+            "variability_open": 0.75,
+            "typical_of_property": 0.0,
+            "rare": 0.625,
+            "variability_limited": 0.25,
+            "impossible": 0.125,
+            "implied_category": 0.0
+        }
+    },
+    "lagoon": {
+        "ml_label": "all-some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.6666666666666666,
+            "implied_category": 0.6666666666666666,
+            "typical_of_property": 0.5555555555555556,
+            "variability_open": 0.5555555555555556,
+            "affording_activity": 0.3333333333333333,
+            "unusual": 0.0,
+            "creative": 0.2222222222222222,
+            "rare": 0.0,
+            "typical_of_concept": 0.6666666666666666,
+            "impossible": 0.0
+        }
+    },
+    "locust": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.625,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_property": 0.0,
+            "rare": 0.375,
+            "impossible": 0.375,
+            "affording_activity": 0.0,
+            "creative": 0.25,
+            "variability_open": 0.125,
+            "unusual": 0.625,
+            "implied_category": 0.0,
+            "typical_of_concept": 0.0,
+            "variability_limited": 0.25
+        }
+    },
+    "tongue": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "variability_open": 0.125,
+            "impossible": 0.125,
+            "rare": 1.0,
+            "affording_activity": 0.0,
+            "variability_limited": 0.375,
+            "implied_category": 0.0,
+            "creative": 0.125,
+            "typical_of_concept": 0.0,
+            "typical_of_property": 0.0,
+            "unusual": 1.0
+        }
+    },
+    "cockroach": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.75,
+            "affording_activity": 0.0,
+            "impossible": 0.375,
+            "implied_category": 0.0,
+            "rare": 0.625,
+            "variability_open": 0.0,
+            "creative": 0.5,
+            "typical_of_property": 0.0,
+            "variability_limited": 0.0,
+            "typical_of_concept": 0.0
+        }
+    },
+    "piano": {
+        "ml_label": "few-some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.875,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.875,
+            "typical_of_concept": 0.0,
+            "implied_category": 0.0,
+            "variability_limited": 0.25,
+            "variability_open": 0.875,
+            "affording_activity": 0.0,
+            "creative": 0.0,
+            "unusual": 0.75,
+            "impossible": 0.0,
+            "typical_of_property": 0.0
+        }
+    },
+    "pot": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.7,
+            "variability_open": 1.0,
+            "implied_category": 0.2,
+            "affording_activity": 0.0,
+            "typical_of_property": 0.1,
+            "creative": 0.0,
+            "typical_of_concept": 0.2,
+            "impossible": 0.0,
+            "variability_limited": 0.2,
+            "unusual": 0.6
+        }
+    },
+    "panther": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "creative",
+        "prop_hyp": 0.8,
+        "metric": "prop_true",
+        "relations": {
+            "implied_category": 0.0,
+            "variability_limited": 0.0,
+            "unusual": 0.7,
+            "affording_activity": 0.0,
+            "rare": 0.4,
+            "impossible": 0.7,
+            "creative": 0.8,
+            "variability_open": 0.0,
+            "typical_of_concept": 0.0,
+            "typical_of_property": 0.0
+        }
+    },
+    "aubergine": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.2222222222222222,
+            "variability_open": 0.1111111111111111,
+            "implied_category": 0.0,
+            "affording_activity": 0.0,
+            "impossible": 0.6666666666666666,
+            "variability_limited": 0.1111111111111111,
+            "typical_of_concept": 0.0,
+            "creative": 0.6666666666666666,
+            "typical_of_property": 0.0,
+            "unusual": 0.6666666666666666
+        }
+    },
+    "cheese": {
+        "ml_label": "some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "typical_of_property": 0.125,
+            "unusual": 0.5,
+            "typical_of_concept": 0.25,
+            "variability_limited": 0.75,
+            "impossible": 0.125,
+            "variability_open": 0.125,
+            "creative": 0.125,
+            "implied_category": 0.0,
+            "rare": 0.375
+        }
+    },
+    "squirrel": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "creative",
+        "prop_hyp": 0.8,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.0,
+            "variability_open": 0.0,
+            "rare": 0.3,
+            "affording_activity": 0.0,
+            "implied_category": 0.0,
+            "variability_limited": 0.0,
+            "impossible": 0.7,
+            "unusual": 0.4,
+            "typical_of_property": 0.0,
+            "creative": 0.8
+        }
+    },
+    "hair": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 1.0,
+            "unusual": 1.0,
+            "typical_of_concept": 0.0,
+            "variability_open": 0.6,
+            "affording_activity": 0.0,
+            "implied_category": 0.0,
+            "typical_of_property": 0.0,
+            "creative": 0.1,
+            "variability_limited": 0.1,
+            "impossible": 0.0
+        }
+    },
+    "orchid": {
+        "ml_label": "some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.7,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.4,
+            "variability_limited": 0.7,
+            "variability_open": 0.7,
+            "creative": 0.1,
+            "typical_of_property": 0.2,
+            "unusual": 0.5,
+            "implied_category": 0.18181818181818182,
+            "typical_of_concept": 0.3,
+            "affording_activity": 0.2,
+            "impossible": 0.1
+        }
+    },
+    "rooster": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.7142857142857143,
+        "metric": "prop_true",
+        "relations": {
+            "impossible": 0.7142857142857143,
+            "variability_open": 0.0,
+            "rare": 0.2857142857142857,
+            "affording_activity": 0.0,
+            "implied_category": 0.0,
+            "typical_of_property": 0.0,
+            "typical_of_concept": 0.0,
+            "creative": 0.2857142857142857,
+            "unusual": 0.2857142857142857,
+            "variability_limited": 0.2857142857142857
+        }
+    },
+    "robin": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.7142857142857143,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.2857142857142857,
+            "typical_of_concept": 0.14285714285714285,
+            "creative": 0.7142857142857143,
+            "variability_limited": 0.14285714285714285,
+            "unusual": 0.5714285714285714,
+            "implied_category": 0.0,
+            "impossible": 0.7142857142857143,
+            "typical_of_property": 0.0,
+            "affording_activity": 0.0,
+            "variability_open": 0.0
+        }
+    },
+    "millipede": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "rare",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_property": 0.0,
+            "implied_category": 0.0,
+            "impossible": 0.25,
+            "variability_limited": 0.375,
+            "variability_open": 0.375,
+            "typical_of_concept": 0.0,
+            "unusual": 0.625,
+            "rare": 0.75,
+            "creative": 0.125,
+            "affording_activity": 0.0
+        }
+    },
+    "wand": {
+        "ml_label": "few-some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "implied_category": 0.0,
+            "variability_limited": 0.0,
+            "affording_activity": 0.0,
+            "rare": 0.75,
+            "unusual": 0.75,
+            "typical_of_property": 0.0,
+            "impossible": 0.125,
+            "creative": 0.0,
+            "variability_open": 0.75,
+            "typical_of_concept": 0.0
+        }
+    },
+    "feeling": {
+        "ml_label": "all-some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.5555555555555556,
+        "metric": "prop_true",
+        "relations": {
+            "implied_category": 0.0,
+            "variability_limited": 0.5555555555555556,
+            "affording_activity": 0.0,
+            "typical_of_property": 0.4444444444444444,
+            "variability_open": 0.3,
+            "typical_of_concept": 0.5555555555555556
+        }
+    },
+    "daisy": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.1111111111111111,
+            "rare": 0.5555555555555556,
+            "impossible": 0.2222222222222222,
+            "unusual": 0.6666666666666666
+        }
+    },
+    "egg": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.8333333333333334,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.5,
+            "affording_activity": 0.0,
+            "unusual": 0.8333333333333334,
+            "variability_open": 0.3333333333333333,
+            "typical_of_property": 0.0,
+            "creative": 0.16666666666666666,
+            "rare": 0.8333333333333334,
+            "impossible": 0.16666666666666666,
+            "typical_of_concept": 0.0,
+            "implied_category": 0.0
+        }
+    },
+    "cucumber": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.2,
+            "typical_of_concept": 0.0,
+            "implied_category": 0.0,
+            "impossible": 0.6666666666666666,
+            "affording_activity": 0.0,
+            "typical_of_property": 0.0,
+            "unusual": 0.2,
+            "variability_limited": 0.0,
+            "variability_open": 0.0,
+            "creative": 0.4
+        }
+    },
+    "goldfish": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "creative",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "typical_of_concept": 0.0,
+            "variability_limited": 0.2,
+            "impossible": 0.5,
+            "variability_open": 0.2,
+            "unusual": 0.5,
+            "rare": 0.3333333333333333,
+            "implied_category": 0.0,
+            "creative": 0.6666666666666666,
+            "typical_of_property": 0.0
+        }
+    },
+    "cabbage": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.8,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.8,
+            "rare": 0.6666666666666666,
+            "creative": 0.4,
+            "impossible": 0.2
+        }
+    },
+    "flamingo": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.7777777777777778,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.2222222222222222,
+            "creative": 0.6666666666666666,
+            "variability_limited": 0.1111111111111111,
+            "typical_of_property": 0.0,
+            "typical_of_concept": 0.0,
+            "variability_open": 0.0,
+            "implied_category": 0.0,
+            "impossible": 0.7777777777777778,
+            "unusual": 0.3333333333333333,
+            "affording_activity": 0.0
+        }
+    },
+    "bushbaby": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.8888888888888888,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.6666666666666666,
+            "affording_activity": 0.0,
+            "implied_category": 0.0,
+            "typical_of_concept": 0.0,
+            "typical_of_property": 0.0,
+            "unusual": 0.3333333333333333,
+            "variability_open": 0.0,
+            "rare": 0.1111111111111111,
+            "impossible": 0.8888888888888888,
+            "variability_limited": 0.0
+        }
+    },
+    "flame": {
+        "ml_label": "some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.875,
+        "metric": "prop_true",
+        "relations": {
+            "impossible": 0.0,
+            "typical_of_property": 0.0,
+            "rare": 0.625,
+            "variability_limited": 0.875,
+            "unusual": 0.625,
+            "creative": 0.125,
+            "implied_category": 0.0,
+            "typical_of_concept": 0.125,
+            "affording_activity": 0.125,
+            "variability_open": 0.375
+        }
+    },
+    "cloak": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.875,
+        "metric": "prop_true",
+        "relations": {
+            "impossible": 0.125,
+            "implied_category": 0.125,
+            "variability_open": 0.875,
+            "affording_activity": 0.0,
+            "unusual": 0.0,
+            "typical_of_concept": 0.25,
+            "creative": 0.0,
+            "typical_of_property": 0.125,
+            "variability_limited": 0.25,
+            "rare": 0.0
+        }
+    },
+    "bottle": {
+        "ml_label": null,
+        "hypothesis": false,
+        "rel_hyp": "rare",
+        "prop_hyp": 0.2857142857142857,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.14285714285714285,
+            "creative": 0.0,
+            "impossible": 0.0,
+            "rare": 0.2857142857142857
+        }
+    },
+    "thought": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "creative",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.2,
+            "rare": 0.0,
+            "creative": 1.0,
+            "impossible": 0.4
+        }
+    },
+    "clarinet": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "rare",
+        "prop_hyp": 0.875,
+        "metric": "prop_true",
+        "relations": {
+            "implied_category": 0.0,
+            "variability_limited": 0.125,
+            "affording_activity": 0.0,
+            "rare": 0.875,
+            "typical_of_concept": 0.0,
+            "creative": 0.125,
+            "impossible": 0.0,
+            "variability_open": 0.625,
+            "typical_of_property": 0.0,
+            "unusual": 0.75
+        }
+    },
+    "eye": {
+        "ml_label": "some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.0,
+            "impossible": 0.0,
+            "implied_category": 0.2222222222222222,
+            "variability_open": 0.1111111111111111,
+            "affording_activity": 0.0,
+            "typical_of_property": 0.4444444444444444,
+            "typical_of_concept": 0.7777777777777778,
+            "unusual": 0.0,
+            "variability_limited": 1.0,
+            "rare": 0.1111111111111111
+        }
+    },
+    "ketchup": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.7777777777777778,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.0,
+            "typical_of_property": 0.0,
+            "affording_activity": 0.0,
+            "unusual": 0.5555555555555556,
+            "creative": 0.2222222222222222,
+            "implied_category": 0.0,
+            "rare": 0.3333333333333333,
+            "variability_open": 0.0,
+            "variability_limited": 0.0,
+            "impossible": 0.7777777777777778
+        }
+    },
+    "suit": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.8888888888888888,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.0,
+            "impossible": 0.0,
+            "typical_of_property": 0.1111111111111111,
+            "rare": 0.1111111111111111,
+            "variability_limited": 0.0,
+            "affording_activity": 0.0,
+            "typical_of_concept": 0.4444444444444444,
+            "variability_open": 0.8888888888888888,
+            "implied_category": 0.2222222222222222,
+            "creative": 0.0
+        }
+    },
+    "bellflower": {
+        "ml_label": "some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.7777777777777778,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.2222222222222222,
+            "typical_of_property": 0.3333333333333333,
+            "typical_of_concept": 0.6666666666666666,
+            "variability_open": 0.2222222222222222,
+            "implied_category": 0.4444444444444444,
+            "variability_limited": 0.7777777777777778
+        }
+    },
+    "boot": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.9,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.2,
+            "typical_of_concept": 0.1,
+            "typical_of_property": 0.0,
+            "unusual": 0.4,
+            "impossible": 0.0,
+            "affording_activity": 0.0,
+            "rare": 0.3,
+            "variability_open": 0.9,
+            "variability_limited": 0.3,
+            "implied_category": 0.1
+        }
+    },
+    "ring": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.9,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.6,
+            "typical_of_property": 0.0,
+            "variability_open": 0.9,
+            "creative": 0.0,
+            "implied_category": 0.0,
+            "typical_of_concept": 0.1,
+            "unusual": 0.3,
+            "affording_activity": 0.0,
+            "variability_limited": 0.3,
+            "impossible": 0.0
+        }
+    },
+    "crow": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.8,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.8,
+            "typical_of_property": 0.0,
+            "impossible": 0.4,
+            "variability_open": 0.0,
+            "variability_limited": 0.2,
+            "rare": 0.4,
+            "implied_category": 0.0,
+            "affording_activity": 0.0,
+            "unusual": 0.8,
+            "typical_of_concept": 0.0
+        }
+    },
+    "truffle": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.8,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "implied_category": 0.0,
+            "unusual": 0.8,
+            "typical_of_concept": 0.0,
+            "variability_open": 0.1,
+            "typical_of_property": 0.0,
+            "impossible": 0.3,
+            "creative": 0.5,
+            "rare": 0.6,
+            "variability_limited": 0.0
+        }
+    },
+    "currant": {
+        "ml_label": "few-some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "unusual": 0.75,
+            "rare": 0.75,
+            "typical_of_concept": 0.125,
+            "variability_limited": 0.75,
+            "impossible": 0.125,
+            "creative": 0.25,
+            "typical_of_property": 0.0,
+            "variability_open": 0.125,
+            "implied_category": 0.0
+        }
+    },
+    "apricot": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.875,
+        "metric": "prop_true",
+        "relations": {
+            "variability_open": 0.0,
+            "creative": 0.375,
+            "rare": 0.375,
+            "typical_of_concept": 0.0,
+            "unusual": 0.375,
+            "implied_category": 0.0,
+            "affording_activity": 0.0,
+            "impossible": 0.875,
+            "variability_limited": 0.125,
+            "typical_of_property": 0.0
+        }
+    },
+    "seaweed": {
+        "ml_label": null,
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.5,
+        "metric": "prop_true",
+        "relations": {
+            "variability_open": 0.25,
+            "affording_activity": 0.125,
+            "typical_of_property": 0.125,
+            "unusual": 0.5,
+            "rare": 0.375,
+            "impossible": 0.375,
+            "creative": 0.125,
+            "implied_category": 0.125,
+            "typical_of_concept": 0.125,
+            "variability_limited": 0.25
+        }
+    },
+    "jaguar": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "impossible": 1.0,
+            "implied_category": 0.0,
+            "unusual": 0.5,
+            "typical_of_property": 0.0,
+            "variability_open": 0.0,
+            "creative": 0.375,
+            "typical_of_concept": 0.0,
+            "variability_limited": 0.0,
+            "rare": 0.25
+        }
+    },
+    "blackboard": {
+        "ml_label": "few",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 1.0,
+            "typical_of_property": 0.0,
+            "impossible": 0.0,
+            "unusual": 1.0,
+            "implied_category": 0.0,
+            "affording_activity": 0.0,
+            "typical_of_concept": 0.0,
+            "creative": 0.0,
+            "variability_open": 0.0,
+            "variability_limited": 0.75
+        }
+    },
+    "bus": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.0,
+            "typical_of_property": 0.0,
+            "implied_category": 0.0,
+            "variability_limited": 0.1111111111111111,
+            "creative": 0.0,
+            "rare": 0.1111111111111111,
+            "variability_open": 1.0,
+            "impossible": 0.0,
+            "typical_of_concept": 0.0,
+            "affording_activity": 0.0
+        }
+    },
+    "radish": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.7142857142857143,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.42857142857142855,
+            "creative": 0.2857142857142857,
+            "variability_limited": 0.14285714285714285,
+            "typical_of_concept": 0.0,
+            "variability_open": 0.0,
+            "unusual": 0.42857142857142855,
+            "impossible": 0.7142857142857143,
+            "implied_category": 0.0,
+            "affording_activity": 0.0,
+            "typical_of_property": 0.0
+        }
+    },
+    "budgie": {
+        "ml_label": "some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.9,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.9,
+            "typical_of_concept": 0.4,
+            "affording_activity": 0.1,
+            "implied_category": 0.2,
+            "typical_of_property": 0.3,
+            "variability_open": 0.2
+        }
+    },
+    "strawberry": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.8333333333333334,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.5,
+            "impossible": 0.8333333333333334,
+            "unusual": 0.3333333333333333,
+            "rare": 0.16666666666666666
+        }
+    },
+    "lantern": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "typical_of_concept": 0.0,
+            "variability_open": 0.75,
+            "impossible": 0.0,
+            "typical_of_property": 0.0,
+            "rare": 0.375,
+            "variability_limited": 0.0,
+            "creative": 0.0,
+            "implied_category": 0.0,
+            "unusual": 0.125
+        }
+    },
+    "oven": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.9,
+        "metric": "prop_true",
+        "relations": {
+            "variability_open": 0.6,
+            "typical_of_property": 0.0,
+            "variability_limited": 0.2,
+            "rare": 0.9,
+            "implied_category": 0.0,
+            "unusual": 0.9,
+            "typical_of_concept": 0.0,
+            "creative": 0.2,
+            "affording_activity": 0.0,
+            "impossible": 0.1
+        }
+    },
+    "dogbane": {
+        "ml_label": "some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.6,
+        "metric": "prop_true",
+        "relations": {
+            "implied_category": 0.0,
+            "typical_of_property": 0.0,
+            "unusual": 0.4,
+            "impossible": 0.4,
+            "typical_of_concept": 0.1,
+            "rare": 0.3,
+            "affording_activity": 0.1,
+            "variability_open": 0.0,
+            "variability_limited": 0.6,
+            "creative": 0.3
+        }
+    },
+    "kingfisher": {
+        "ml_label": "all",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.9,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.0,
+            "impossible": 0.0,
+            "variability_open": 0.4,
+            "affording_activity": 0.6,
+            "variability_limited": 0.9,
+            "typical_of_property": 0.4,
+            "typical_of_concept": 1.0,
+            "creative": 0.0,
+            "implied_category": 0.4,
+            "unusual": 0.0
+        }
+    },
+    "caterpillar": {
+        "ml_label": "few",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.5714285714285714,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.7142857142857143,
+            "variability_open": 0.42857142857142855,
+            "affording_activity": 0.0,
+            "typical_of_property": 0.0,
+            "implied_category": 0.0,
+            "typical_of_concept": 0.0,
+            "impossible": 0.0,
+            "rare": 0.8571428571428571,
+            "creative": 0.5714285714285714,
+            "variability_limited": 0.5714285714285714
+        }
+    },
+    "dolphin": {
+        "ml_label": "few",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.5714285714285714,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "rare": 0.7142857142857143,
+            "implied_category": 0.0,
+            "variability_open": 0.2857142857142857,
+            "creative": 0.42857142857142855,
+            "impossible": 0.14285714285714285,
+            "unusual": 0.8571428571428571,
+            "variability_limited": 0.5714285714285714,
+            "typical_of_concept": 0.14285714285714285,
+            "typical_of_property": 0.0
+        }
+    },
+    "heart": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "creative",
+        "prop_hyp": 0.7777777777777778,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "creative": 0.7777777777777778,
+            "typical_of_concept": 0.0,
+            "impossible": 0.5555555555555556,
+            "unusual": 0.5555555555555556,
+            "variability_limited": 0.2222222222222222,
+            "rare": 0.4444444444444444,
+            "implied_category": 0.0,
+            "variability_open": 0.2222222222222222,
+            "typical_of_property": 0.0
+        }
+    },
+    "corn": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.5555555555555556,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.5555555555555556,
+            "rare": 0.5555555555555556,
+            "affording_activity": 0.0,
+            "typical_of_property": 0.0,
+            "creative": 0.1111111111111111,
+            "implied_category": 0.0,
+            "variability_limited": 0.4444444444444444,
+            "variability_open": 0.1111111111111111,
+            "impossible": 0.3333333333333333,
+            "typical_of_concept": 0.0
+        }
+    },
+    "mussel": {
+        "ml_label": "some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.125,
+            "variability_open": 0.375,
+            "impossible": 0.125,
+            "rare": 0.5,
+            "unusual": 0.5,
+            "affording_activity": 0.125,
+            "typical_of_property": 0.0,
+            "variability_limited": 0.75,
+            "implied_category": 0.0,
+            "typical_of_concept": 0.375
+        }
+    },
+    "tank": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.0,
+            "implied_category": 0.0,
+            "unusual": 0.75,
+            "typical_of_property": 0.0,
+            "rare": 0.625,
+            "variability_open": 0.625,
+            "affording_activity": 0.0,
+            "variability_limited": 0.125,
+            "creative": 0.0,
+            "impossible": 0.0
+        }
+    },
+    "clothing": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.0,
+            "typical_of_concept": 0.375,
+            "unusual": 0.0,
+            "creative": 0.0,
+            "variability_open": 1.0,
+            "variability_limited": 0.25,
+            "implied_category": 0.0,
+            "typical_of_property": 0.125,
+            "affording_activity": 0.0,
+            "impossible": 0.0
+        }
+    },
+    "paint": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.0,
+            "implied_category": 0.0,
+            "variability_open": 1.0,
+            "typical_of_concept": 0.75,
+            "typical_of_property": 0.125,
+            "affording_activity": 0.125
+        }
+    },
+    "sycamore": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.1111111111111111,
+            "typical_of_property": 0.0,
+            "variability_open": 0.0,
+            "typical_of_concept": 0.0,
+            "affording_activity": 0.0,
+            "rare": 0.3333333333333333,
+            "impossible": 0.6666666666666666,
+            "implied_category": 0.0,
+            "unusual": 0.6666666666666666,
+            "creative": 0.3333333333333333
+        }
+    },
+    "crossbill": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.25,
+            "typical_of_property": 0.0,
+            "creative": 0.375,
+            "affording_activity": 0.0,
+            "unusual": 0.75,
+            "typical_of_concept": 0.0,
+            "variability_open": 0.125,
+            "implied_category": 0.0,
+            "impossible": 0.375,
+            "rare": 0.625
+        }
+    },
+    "diamond": {
+        "ml_label": null,
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.4,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.0,
+            "variability_limited": 0.4,
+            "rare": 0.4,
+            "typical_of_property": 0.0,
+            "typical_of_concept": 0.0,
+            "unusual": 0.4,
+            "impossible": 0.0,
+            "affording_activity": 0.0,
+            "implied_category": 0.0,
+            "variability_open": 0.2
+        }
+    },
+    "scorpion": {
+        "ml_label": "few-some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.6,
+        "metric": "prop_true",
+        "relations": {
+            "implied_category": 0.0,
+            "typical_of_property": 0.0,
+            "typical_of_concept": 0.0,
+            "creative": 0.0,
+            "impossible": 0.0,
+            "variability_open": 0.2,
+            "affording_activity": 0.0,
+            "variability_limited": 0.6,
+            "rare": 0.6,
+            "unusual": 0.2
+        }
+    },
+    "emerald": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.16666666666666666,
+            "typical_of_property": 0.0,
+            "typical_of_concept": 0.0,
+            "rare": 0.5,
+            "implied_category": 0.0,
+            "variability_limited": 0.5,
+            "affording_activity": 0.0,
+            "unusual": 0.6666666666666666,
+            "impossible": 0.6666666666666666,
+            "variability_open": 0.16666666666666666
+        }
+    },
+    "raven": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.625,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_property": 0.0,
+            "implied_category": 0.0,
+            "variability_limited": 0.125,
+            "rare": 0.375,
+            "typical_of_concept": 0.0,
+            "impossible": 0.625,
+            "affording_activity": 0.0,
+            "variability_open": 0.0,
+            "unusual": 0.625,
+            "creative": 0.25
+        }
+    },
+    "buttercup": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.6,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "variability_open": 0.0,
+            "rare": 0.3,
+            "typical_of_concept": 0.0,
+            "implied_category": 0.0,
+            "variability_limited": 0.0,
+            "creative": 0.4,
+            "typical_of_property": 0.0,
+            "impossible": 0.6,
+            "unusual": 0.5
+        }
+    },
+    "problem": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.8,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.5,
+            "impossible": 0.8,
+            "rare": 0.1,
+            "unusual": 0.1
+        }
+    },
+    "olive": {
+        "ml_label": null,
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.5,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.375,
+            "creative": 0.5,
+            "typical_of_property": 0.0,
+            "typical_of_concept": 0.125,
+            "impossible": 0.375,
+            "rare": 0.375,
+            "affording_activity": 0.0,
+            "unusual": 0.5,
+            "implied_category": 0.125,
+            "variability_open": 0.0
+        }
+    },
+    "scaup": {
+        "ml_label": null,
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.5,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.125,
+            "impossible": 0.5,
+            "variability_open": 0.0,
+            "implied_category": 0.0,
+            "typical_of_concept": 0.0,
+            "rare": 0.375,
+            "affording_activity": 0.0,
+            "unusual": 0.375,
+            "typical_of_property": 0.0,
+            "creative": 0.375
+        }
+    },
+    "water": {
+        "ml_label": "all-some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.16666666666666666,
+            "affording_activity": 0.0,
+            "unusual": 0.16666666666666666,
+            "rare": 0.3333333333333333,
+            "implied_category": 0.3333333333333333,
+            "typical_of_concept": 0.6666666666666666,
+            "variability_limited": 0.6666666666666666,
+            "typical_of_property": 0.5,
+            "variability_open": 0.16666666666666666,
+            "impossible": 0.16666666666666666
+        }
+    },
+    "car": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_property": 0.0,
+            "unusual": 0.0,
+            "rare": 0.0,
+            "variability_limited": 0.0,
+            "typical_of_concept": 0.3333333333333333,
+            "implied_category": 0.0,
+            "variability_open": 1.0,
+            "impossible": 0.0,
+            "affording_activity": 0.0,
+            "creative": 0.0
+        }
+    },
+    "flea": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.5555555555555556,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "typical_of_concept": 0.1111111111111111,
+            "creative": 0.3333333333333333,
+            "variability_limited": 0.2222222222222222,
+            "rare": 0.2222222222222222,
+            "unusual": 0.3333333333333333,
+            "implied_category": 0.1111111111111111,
+            "typical_of_property": 0.0,
+            "variability_open": 0.1111111111111111,
+            "impossible": 0.5555555555555556
+        }
+    },
+    "apple": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.7777777777777778,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.0,
+            "impossible": 0.7777777777777778,
+            "typical_of_property": 0.0,
+            "affording_activity": 0.0,
+            "unusual": 0.5555555555555556,
+            "variability_limited": 0.1111111111111111,
+            "variability_open": 0.0,
+            "implied_category": 0.0,
+            "rare": 0.3333333333333333,
+            "creative": 0.5555555555555556
+        }
+    },
+    "cannon": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.8888888888888888,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.8888888888888888,
+            "variability_open": 0.4444444444444444,
+            "creative": 0.1111111111111111,
+            "impossible": 0.0,
+            "typical_of_concept": 0.0,
+            "variability_limited": 0.2222222222222222,
+            "typical_of_property": 0.0,
+            "implied_category": 0.0,
+            "affording_activity": 0.0,
+            "rare": 0.8888888888888888
+        }
+    },
+    "cricket": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "rare",
+        "prop_hyp": 0.7777777777777778,
+        "metric": "prop_true",
+        "relations": {
+            "implied_category": 0.0,
+            "affording_activity": 0.0,
+            "rare": 0.7777777777777778,
+            "variability_limited": 0.2222222222222222,
+            "impossible": 0.2222222222222222,
+            "typical_of_property": 0.0,
+            "variability_open": 0.2222222222222222,
+            "unusual": 0.6666666666666666,
+            "typical_of_concept": 0.0,
+            "creative": 0.3333333333333333
+        }
+    },
+    "gorilla": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.0,
+            "typical_of_property": 0.0,
+            "creative": 0.3333333333333333,
+            "unusual": 0.6666666666666666,
+            "impossible": 0.6666666666666666,
+            "typical_of_concept": 0.0,
+            "implied_category": 0.0,
+            "variability_open": 0.0,
+            "rare": 0.2222222222222222,
+            "affording_activity": 0.0
+        }
+    },
+    "bear": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.0,
+            "variability_limited": 0.2222222222222222,
+            "implied_category": 0.0,
+            "rare": 0.2222222222222222,
+            "typical_of_property": 0.0,
+            "unusual": 0.6666666666666666,
+            "impossible": 0.5555555555555556,
+            "variability_open": 0.0,
+            "creative": 0.3333333333333333,
+            "affording_activity": 0.0
+        }
+    },
+    "elm": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.7777777777777778,
+        "metric": "prop_true",
+        "relations": {
+            "impossible": 0.7777777777777778,
+            "rare": 0.2222222222222222,
+            "variability_open": 0.0,
+            "unusual": 0.5555555555555556,
+            "typical_of_concept": 0.0,
+            "affording_activity": 0.0,
+            "creative": 0.2222222222222222,
+            "typical_of_property": 0.0,
+            "implied_category": 0.0,
+            "variability_limited": 0.0
+        }
+    },
+    "raisin": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.4444444444444444,
+            "typical_of_concept": 0.0,
+            "creative": 0.1111111111111111,
+            "variability_open": 0.0,
+            "implied_category": 0.0,
+            "affording_activity": 0.0,
+            "rare": 0.2222222222222222,
+            "variability_limited": 0.0,
+            "impossible": 0.6666666666666666,
+            "typical_of_property": 0.0
+        }
+    },
+    "flower": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.8888888888888888,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_property": 0.1111111111111111,
+            "unusual": 0.1111111111111111,
+            "affording_activity": 0.2222222222222222,
+            "impossible": 0.0,
+            "typical_of_concept": 0.1111111111111111,
+            "rare": 0.2222222222222222,
+            "variability_limited": 0.1111111111111111,
+            "creative": 0.0,
+            "variability_open": 0.8888888888888888,
+            "implied_category": 0.0
+        }
+    },
+    "starling": {
+        "ml_label": "some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.75,
+            "variability_open": 0.25,
+            "creative": 0.125,
+            "implied_category": 0.375,
+            "unusual": 0.25,
+            "typical_of_concept": 0.375,
+            "affording_activity": 0.0,
+            "rare": 0.375,
+            "impossible": 0.125,
+            "typical_of_property": 0.25
+        }
+    },
+    "gown": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.875,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.0,
+            "affording_activity": 0.25,
+            "rare": 0.0,
+            "variability_open": 0.875,
+            "creative": 0.0,
+            "variability_limited": 0.0,
+            "typical_of_property": 0.25,
+            "implied_category": 0.25,
+            "typical_of_concept": 0.375,
+            "impossible": 0.0
+        }
+    },
+    "bird": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.9,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.3,
+            "variability_open": 0.9,
+            "affording_activity": 0.0,
+            "typical_of_concept": 0.1,
+            "rare": 0.3,
+            "typical_of_property": 0.0,
+            "variability_limited": 0.3,
+            "creative": 0.0,
+            "impossible": 0.0,
+            "implied_category": 0.0
+        }
+    },
+    "rice": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.8,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.4,
+            "impossible": 0.4,
+            "variability_limited": 0.0,
+            "unusual": 0.8,
+            "typical_of_concept": 0.0,
+            "typical_of_property": 0.0,
+            "creative": 0.3,
+            "implied_category": 0.0,
+            "variability_open": 0.1,
+            "affording_activity": 0.0
+        }
+    },
+    "pond": {
+        "ml_label": null,
+        "hypothesis": false,
+        "rel_hyp": "rare",
+        "prop_hyp": 0.3,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.3,
+            "unusual": 0.2,
+            "creative": 0.1,
+            "impossible": 0.1
+        }
+    },
+    "dress": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.0,
+            "implied_category": 0.0,
+            "impossible": 0.0,
+            "creative": 0.0,
+            "typical_of_concept": 0.1111111111111111,
+            "variability_open": 1.0,
+            "rare": 0.0,
+            "unusual": 0.0,
+            "typical_of_property": 0.0,
+            "affording_activity": 0.0
+        }
+    },
+    "leopard": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.7777777777777778,
+        "metric": "prop_true",
+        "relations": {
+            "impossible": 0.7777777777777778,
+            "rare": 0.1111111111111111,
+            "unusual": 0.4444444444444444,
+            "typical_of_property": 0.0,
+            "typical_of_concept": 0.0,
+            "creative": 0.4444444444444444,
+            "implied_category": 0.0,
+            "affording_activity": 0.0,
+            "variability_open": 0.0,
+            "variability_limited": 0.0
+        }
+    },
+    "pepper": {
+        "ml_label": null,
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.5,
+        "metric": "prop_true",
+        "relations": {
+            "variability_open": 0.16666666666666666,
+            "typical_of_concept": 0.0,
+            "affording_activity": 0.0,
+            "unusual": 0.5,
+            "creative": 0.16666666666666666,
+            "rare": 0.16666666666666666,
+            "typical_of_property": 0.0,
+            "implied_category": 0.0,
+            "variability_limited": 0.16666666666666666,
+            "impossible": 0.5
+        }
+    },
+    "pit": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_property": 0.0,
+            "variability_limited": 0.2222222222222222,
+            "rare": 0.2222222222222222,
+            "typical_of_concept": 0.0,
+            "impossible": 0.6666666666666666,
+            "affording_activity": 0.0,
+            "variability_open": 0.0,
+            "creative": 0.6666666666666666,
+            "implied_category": 0.0,
+            "unusual": 0.6666666666666666
+        }
+    },
+    "sandpaper": {
+        "ml_label": "few-some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.6666666666666666,
+            "impossible": 0.1111111111111111,
+            "variability_open": 0.6666666666666666,
+            "creative": 0.2222222222222222,
+            "typical_of_concept": 0.1111111111111111,
+            "unusual": 0.5555555555555556,
+            "affording_activity": 0.0,
+            "variability_limited": 0.4444444444444444,
+            "implied_category": 0.1111111111111111,
+            "typical_of_property": 0.1111111111111111
+        }
+    },
+    "lion": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "creative",
+        "prop_hyp": 0.7777777777777778,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "unusual": 0.3333333333333333,
+            "typical_of_property": 0.0,
+            "creative": 0.7777777777777778,
+            "implied_category": 0.0,
+            "rare": 0.1111111111111111,
+            "typical_of_concept": 0.0,
+            "impossible": 0.6666666666666666,
+            "variability_open": 0.0,
+            "variability_limited": 0.0
+        }
+    },
+    "quail": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_property": 0.0,
+            "unusual": 0.375,
+            "rare": 0.25,
+            "variability_limited": 0.125,
+            "variability_open": 0.125,
+            "affording_activity": 0.0,
+            "creative": 0.375,
+            "impossible": 0.75,
+            "typical_of_concept": 0.0,
+            "implied_category": 0.0
+        }
+    },
+    "peach": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.625,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.5,
+            "implied_category": 0.0,
+            "impossible": 0.625,
+            "unusual": 0.5,
+            "typical_of_property": 0.0,
+            "rare": 0.5,
+            "variability_open": 0.0,
+            "variability_limited": 0.0,
+            "typical_of_concept": 0.0,
+            "affording_activity": 0.0
+        }
+    },
+    "cherry": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.625,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.5,
+            "rare": 0.5,
+            "affording_activity": 0.0,
+            "creative": 0.375,
+            "implied_category": 0.0,
+            "typical_of_concept": 0.0,
+            "variability_limited": 0.0,
+            "variability_open": 0.0,
+            "impossible": 0.625,
+            "typical_of_property": 0.0
+        }
+    },
+    "tar": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.625,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "unusual": 0.625,
+            "variability_limited": 0.125,
+            "creative": 0.5,
+            "variability_open": 0.125,
+            "rare": 0.5,
+            "typical_of_concept": 0.0,
+            "impossible": 0.625,
+            "implied_category": 0.0,
+            "typical_of_property": 0.0
+        }
+    },
+    "plumage": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "impossible": 0.0,
+            "creative": 0.1111111111111111,
+            "variability_open": 1.0,
+            "typical_of_property": 0.2222222222222222,
+            "implied_category": 0.1111111111111111,
+            "rare": 0.2222222222222222,
+            "affording_activity": 0.3333333333333333,
+            "variability_limited": 0.4444444444444444,
+            "unusual": 0.3333333333333333,
+            "typical_of_concept": 0.4444444444444444
+        }
+    },
+    "insect": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.2222222222222222,
+            "affording_activity": 0.0,
+            "typical_of_property": 0.0,
+            "variability_limited": 0.2222222222222222,
+            "impossible": 0.0,
+            "variability_open": 1.0,
+            "creative": 0.1111111111111111,
+            "rare": 0.2222222222222222,
+            "typical_of_concept": 0.1111111111111111,
+            "implied_category": 0.1111111111111111
+        }
+    },
+    "cheetah": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.7,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.3,
+            "typical_of_concept": 0.0,
+            "rare": 0.2,
+            "creative": 0.5,
+            "typical_of_property": 0.0,
+            "affording_activity": 0.0,
+            "implied_category": 0.0,
+            "impossible": 0.7,
+            "variability_limited": 0.0,
+            "variability_open": 0.0
+        }
+    },
+    "lettuce": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.9,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.0,
+            "impossible": 0.9,
+            "implied_category": 0.0,
+            "variability_limited": 0.1,
+            "rare": 0.3,
+            "variability_open": 0.0,
+            "typical_of_property": 0.0,
+            "unusual": 0.5,
+            "affording_activity": 0.0,
+            "creative": 0.2
+        }
+    },
+    "willow": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.6,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "impossible": 0.6,
+            "implied_category": 0.0,
+            "creative": 0.4,
+            "rare": 0.3,
+            "typical_of_property": 0.0,
+            "unusual": 0.4,
+            "variability_limited": 0.0,
+            "typical_of_concept": 0.0,
+            "variability_open": 0.0
+        }
+    },
+    "fox": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.7,
+        "metric": "prop_true",
+        "relations": {
+            "variability_open": 0.0,
+            "creative": 0.6,
+            "variability_limited": 0.0,
+            "implied_category": 0.0,
+            "typical_of_property": 0.0,
+            "unusual": 0.4,
+            "rare": 0.1,
+            "affording_activity": 0.0,
+            "typical_of_concept": 0.0,
+            "impossible": 0.7
+        }
+    },
+    "skunk": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.7777777777777778,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "creative": 0.6666666666666666,
+            "rare": 0.2222222222222222,
+            "typical_of_concept": 0.0,
+            "variability_limited": 0.0,
+            "implied_category": 0.0,
+            "variability_open": 0.0,
+            "impossible": 0.7777777777777778,
+            "unusual": 0.4444444444444444,
+            "typical_of_property": 0.0
+        }
+    },
+    "world": {
+        "ml_label": null,
+        "hypothesis": false,
+        "rel_hyp": "creative",
+        "prop_hyp": 0.4444444444444444,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.1111111111111111,
+            "variability_limited": 0.2222222222222222,
+            "implied_category": 0.0,
+            "typical_of_property": 0.2222222222222222,
+            "rare": 0.2222222222222222,
+            "affording_activity": 0.1111111111111111,
+            "creative": 0.4444444444444444,
+            "unusual": 0.2222222222222222,
+            "variability_open": 0.3333333333333333,
+            "impossible": 0.3333333333333333
+        }
+    },
+    "dog": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.0,
+            "rare": 0.4444444444444444,
+            "unusual": 0.4444444444444444,
+            "impossible": 0.6666666666666666,
+            "affording_activity": 0.0,
+            "typical_of_property": 0.0,
+            "implied_category": 0.0,
+            "creative": 0.6666666666666666,
+            "variability_limited": 0.0,
+            "variability_open": 0.1111111111111111
+        }
+    },
+    "iceberg": {
+        "ml_label": "few-some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.5555555555555556,
+        "metric": "prop_true",
+        "relations": {
+            "impossible": 0.4444444444444444,
+            "implied_category": 0.1111111111111111,
+            "unusual": 0.5555555555555556,
+            "variability_open": 0.0,
+            "variability_limited": 0.5555555555555556,
+            "affording_activity": 0.1111111111111111,
+            "creative": 0.2222222222222222,
+            "rare": 0.2222222222222222,
+            "typical_of_property": 0.1111111111111111,
+            "typical_of_concept": 0.1111111111111111
+        }
+    },
+    "peacock": {
+        "ml_label": "all",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.5555555555555556,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.5555555555555556,
+            "impossible": 0.1111111111111111,
+            "creative": 0.1111111111111111,
+            "unusual": 0.3333333333333333,
+            "rare": 0.2222222222222222,
+            "affording_activity": 0.3333333333333333,
+            "typical_of_property": 0.4444444444444444,
+            "variability_open": 0.3333333333333333,
+            "typical_of_concept": 0.6666666666666666,
+            "implied_category": 0.4444444444444444
+        }
+    },
+    "blueberry": {
+        "ml_label": "all",
+        "hypothesis": true,
+        "rel_hyp": "typical_of_property",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "variability_open": 0.0,
+            "implied_category": 0.5555555555555556,
+            "typical_of_property": 1.0,
+            "affording_activity": 0.5555555555555556,
+            "variability_limited": 0.7777777777777778,
+            "typical_of_concept": 0.8888888888888888
+        }
+    },
+    "violet": {
+        "ml_label": "all-some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.7142857142857143,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.14285714285714285,
+            "creative": 0.2857142857142857,
+            "variability_limited": 0.7142857142857143,
+            "variability_open": 0.2857142857142857,
+            "implied_category": 0.42857142857142855,
+            "unusual": 0.2857142857142857,
+            "typical_of_concept": 0.7142857142857143,
+            "typical_of_property": 0.2857142857142857,
+            "impossible": 0.2857142857142857,
+            "affording_activity": 0.5714285714285714
+        }
+    },
+    "sapphire": {
+        "ml_label": "all",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.8571428571428571,
+        "metric": "prop_true",
+        "relations": {
+            "implied_category": 0.7142857142857143,
+            "typical_of_property": 0.8571428571428571,
+            "creative": 0.0,
+            "variability_limited": 0.8571428571428571,
+            "variability_open": 0.7142857142857143,
+            "impossible": 0.0,
+            "unusual": 0.0,
+            "typical_of_concept": 1.0,
+            "rare": 0.0,
+            "affording_activity": 0.8571428571428571
+        }
+    },
+    "pyramid": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.7142857142857143,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.0,
+            "variability_limited": 0.2857142857142857,
+            "variability_open": 0.2857142857142857,
+            "creative": 0.5714285714285714,
+            "affording_activity": 0.0,
+            "unusual": 0.7142857142857143,
+            "impossible": 0.42857142857142855,
+            "typical_of_property": 0.0,
+            "implied_category": 0.0,
+            "rare": 0.7142857142857143
+        }
+    },
+    "monkey": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.8,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_property": 0.0,
+            "rare": 0.2,
+            "creative": 0.6,
+            "variability_limited": 0.1,
+            "implied_category": 0.0,
+            "unusual": 0.6,
+            "variability_open": 0.0,
+            "impossible": 0.8,
+            "typical_of_concept": 0.0,
+            "affording_activity": 0.0
+        }
+    },
+    "chameleon": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "rare",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.125,
+            "creative": 0.0,
+            "implied_category": 0.0,
+            "typical_of_concept": 0.0,
+            "variability_limited": 0.375,
+            "variability_open": 0.625,
+            "rare": 0.75,
+            "typical_of_property": 0.0,
+            "impossible": 0.0,
+            "unusual": 0.625
+        }
+    },
+    "lizard": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "rare",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "implied_category": 0.0,
+            "creative": 0.0,
+            "typical_of_concept": 0.0,
+            "unusual": 0.875,
+            "rare": 1.0,
+            "typical_of_property": 0.0,
+            "impossible": 0.0,
+            "affording_activity": 0.0,
+            "variability_limited": 0.5,
+            "variability_open": 0.375
+        }
+    },
+    "herring": {
+        "ml_label": null,
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.5,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.5,
+            "creative": 0.25,
+            "impossible": 0.375,
+            "affording_activity": 0.0,
+            "rare": 0.5,
+            "variability_open": 0.0,
+            "implied_category": 0.125,
+            "typical_of_concept": 0.125,
+            "variability_limited": 0.5,
+            "typical_of_property": 0.0
+        }
+    },
+    "beetle": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.625,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.5,
+            "creative": 0.0,
+            "unusual": 0.625,
+            "impossible": 0.125
+        }
+    },
+    "daffodil": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "variability_limited": 0.0,
+            "variability_open": 0.125,
+            "implied_category": 0.0,
+            "creative": 0.5,
+            "rare": 0.375,
+            "typical_of_concept": 0.0,
+            "impossible": 0.625,
+            "unusual": 0.75,
+            "typical_of_property": 0.0
+        }
+    },
+    "nectarine": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.0,
+            "implied_category": 0.0,
+            "creative": 0.5,
+            "rare": 0.25,
+            "impossible": 0.75,
+            "affording_activity": 0.0,
+            "variability_open": 0.0,
+            "typical_of_property": 0.0,
+            "variability_limited": 0.0,
+            "unusual": 0.75
+        }
+    },
+    "avocado": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.875,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.5,
+            "unusual": 0.5,
+            "rare": 0.375,
+            "impossible": 0.875
+        }
+    },
+    "tire": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.3,
+            "variability_limited": 0.375,
+            "implied_category": 0.0,
+            "rare": 0.8888888888888888,
+            "impossible": 0.2222222222222222,
+            "variability_open": 0.375,
+            "typical_of_concept": 0.0,
+            "affording_activity": 0.0,
+            "typical_of_property": 0.0,
+            "unusual": 1.0
+        }
+    },
+    "giraffe": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "creative",
+        "prop_hyp": 0.7777777777777778,
+        "metric": "prop_true",
+        "relations": {
+            "impossible": 0.75,
+            "typical_of_property": 0.0,
+            "implied_category": 0.0,
+            "affording_activity": 0.0,
+            "variability_limited": 0.0,
+            "variability_open": 0.0,
+            "unusual": 0.4444444444444444,
+            "typical_of_concept": 0.0,
+            "creative": 0.7777777777777778,
+            "rare": 0.4444444444444444
+        }
+    },
+    "buzzard": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.7777777777777778,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.4444444444444444,
+            "variability_open": 0.0,
+            "implied_category": 0.0,
+            "rare": 0.1111111111111111,
+            "variability_limited": 0.0,
+            "unusual": 0.1111111111111111,
+            "impossible": 0.7777777777777778,
+            "typical_of_property": 0.0,
+            "affording_activity": 0.0,
+            "typical_of_concept": 0.0
+        }
+    },
+    "bat": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.0,
+            "impossible": 0.6666666666666666,
+            "variability_limited": 0.1111111111111111,
+            "typical_of_property": 0.0,
+            "implied_category": 0.0,
+            "affording_activity": 0.0,
+            "unusual": 0.5555555555555556,
+            "variability_open": 0.0,
+            "rare": 0.3333333333333333,
+            "creative": 0.3333333333333333
+        }
+    },
+    "bee": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.8888888888888888,
+        "metric": "prop_true",
+        "relations": {
+            "implied_category": 0.0,
+            "creative": 0.4444444444444444,
+            "typical_of_property": 0.0,
+            "variability_limited": 0.0,
+            "typical_of_concept": 0.0,
+            "rare": 0.2222222222222222,
+            "affording_activity": 0.0,
+            "unusual": 0.3333333333333333,
+            "variability_open": 0.0,
+            "impossible": 0.8888888888888888
+        }
+    },
+    "glass": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.8888888888888888,
+        "metric": "prop_true",
+        "relations": {
+            "implied_category": 0.1111111111111111,
+            "unusual": 0.5555555555555556,
+            "variability_limited": 0.2222222222222222,
+            "variability_open": 0.8888888888888888,
+            "typical_of_property": 0.1111111111111111,
+            "typical_of_concept": 0.1111111111111111,
+            "impossible": 0.0,
+            "rare": 0.5555555555555556,
+            "affording_activity": 0.3333333333333333,
+            "creative": 0.1111111111111111
+        }
+    },
+    "hose": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.875,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.625,
+            "impossible": 0.0,
+            "creative": 0.0,
+            "affording_activity": 0.0,
+            "unusual": 0.25,
+            "variability_open": 0.875,
+            "typical_of_concept": 0.0,
+            "typical_of_property": 0.0,
+            "variability_limited": 0.25,
+            "implied_category": 0.0
+        }
+    },
+    "crypt": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.7777777777777778,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.0,
+            "variability_limited": 0.3333333333333333,
+            "impossible": 0.1111111111111111,
+            "affording_activity": 0.0,
+            "variability_open": 0.2222222222222222,
+            "unusual": 0.7777777777777778,
+            "implied_category": 0.0,
+            "creative": 0.4444444444444444,
+            "rare": 0.6666666666666666,
+            "typical_of_property": 0.0
+        }
+    },
+    "wine": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.3333333333333333,
+            "variability_open": 0.1111111111111111,
+            "impossible": 0.4444444444444444,
+            "creative": 0.3333333333333333,
+            "implied_category": 0.0,
+            "rare": 0.4444444444444444,
+            "affording_activity": 0.0,
+            "typical_of_concept": 0.0,
+            "unusual": 0.6666666666666666,
+            "typical_of_property": 0.0
+        }
+    },
+    "crocodile": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.7777777777777778,
+        "metric": "prop_true",
+        "relations": {
+            "impossible": 0.7777777777777778,
+            "typical_of_concept": 0.0,
+            "implied_category": 0.0,
+            "typical_of_property": 0.0,
+            "creative": 0.5555555555555556,
+            "unusual": 0.4444444444444444,
+            "variability_open": 0.0,
+            "affording_activity": 0.0,
+            "rare": 0.4444444444444444,
+            "variability_limited": 0.1111111111111111
+        }
+    },
+    "parakeet": {
+        "ml_label": "some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.1111111111111111,
+            "variability_open": 0.7777777777777778,
+            "typical_of_property": 0.0,
+            "typical_of_concept": 0.4444444444444444,
+            "affording_activity": 0.0,
+            "variability_limited": 0.6666666666666666,
+            "implied_category": 0.0,
+            "creative": 0.0,
+            "rare": 0.1111111111111111,
+            "impossible": 0.0
+        }
+    },
+    "barn": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "rare",
+        "prop_hyp": 0.8888888888888888,
+        "metric": "prop_true",
+        "relations": {
+            "impossible": 0.0,
+            "unusual": 0.6666666666666666,
+            "creative": 0.2222222222222222,
+            "rare": 0.8888888888888888
+        }
+    },
+    "beer": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.625,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.125,
+            "creative": 0.5,
+            "impossible": 0.25,
+            "variability_open": 0.125,
+            "implied_category": 0.0,
+            "typical_of_property": 0.0,
+            "unusual": 0.625,
+            "typical_of_concept": 0.0,
+            "affording_activity": 0.0,
+            "rare": 0.375
+        }
+    },
+    "alligator": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.8571428571428571,
+        "metric": "prop_true",
+        "relations": {
+            "implied_category": 0.0,
+            "impossible": 0.5714285714285714,
+            "variability_open": 0.0,
+            "creative": 0.8571428571428571,
+            "rare": 0.42857142857142855,
+            "unusual": 0.8571428571428571,
+            "typical_of_concept": 0.0,
+            "variability_limited": 0.14285714285714285,
+            "typical_of_property": 0.0,
+            "affording_activity": 0.0
+        }
+    },
+    "jam": {
+        "ml_label": "few",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.625,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.75,
+            "affording_activity": 0.0,
+            "creative": 0.25,
+            "variability_limited": 0.625,
+            "variability_open": 0.375,
+            "rare": 0.75,
+            "impossible": 0.125,
+            "typical_of_concept": 0.0,
+            "typical_of_property": 0.0,
+            "implied_category": 0.0
+        }
+    },
+    "night": {
+        "ml_label": "some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.25,
+            "variability_limited": 0.75,
+            "impossible": 0.25,
+            "typical_of_concept": 0.125,
+            "affording_activity": 0.0,
+            "typical_of_property": 0.0,
+            "creative": 0.375,
+            "variability_open": 0.25,
+            "implied_category": 0.0,
+            "unusual": 0.625
+        }
+    },
+    "calf": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.875,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.0,
+            "impossible": 0.625,
+            "variability_limited": 0.125,
+            "variability_open": 0.0,
+            "creative": 0.75,
+            "rare": 0.375,
+            "unusual": 0.875,
+            "affording_activity": 0.0,
+            "implied_category": 0.0,
+            "typical_of_property": 0.0
+        }
+    },
+    "sky": {
+        "ml_label": "all",
+        "hypothesis": true,
+        "rel_hyp": "typical_of_property",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 1.0,
+            "typical_of_property": 1.0,
+            "implied_category": 0.375,
+            "variability_limited": 0.75,
+            "affording_activity": 0.375,
+            "variability_open": 0.625
+        }
+    },
+    "frogfish": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.625,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.625,
+            "implied_category": 0.0,
+            "creative": 0.375,
+            "impossible": 0.125,
+            "typical_of_concept": 0.0,
+            "variability_limited": 0.25,
+            "affording_activity": 0.0,
+            "rare": 0.625,
+            "typical_of_property": 0.0,
+            "variability_open": 0.375
+        }
+    },
+    "tortoise": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.375,
+            "unusual": 1.0,
+            "creative": 0.5,
+            "typical_of_concept": 0.0,
+            "impossible": 0.25,
+            "implied_category": 0.0,
+            "rare": 0.875,
+            "variability_open": 0.0,
+            "typical_of_property": 0.0,
+            "affording_activity": 0.0
+        }
+    },
+    "tarantula": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.875,
+        "metric": "prop_true",
+        "relations": {
+            "variability_open": 0.25,
+            "variability_limited": 0.375,
+            "unusual": 0.875,
+            "typical_of_concept": 0.0,
+            "impossible": 0.25,
+            "typical_of_property": 0.0,
+            "affording_activity": 0.0,
+            "rare": 0.875,
+            "creative": 0.25,
+            "implied_category": 0.0
+        }
+    },
+    "lime": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.5,
+            "variability_limited": 0.0,
+            "implied_category": 0.0,
+            "affording_activity": 0.0,
+            "unusual": 0.375,
+            "variability_open": 0.0,
+            "rare": 0.5,
+            "impossible": 0.75,
+            "typical_of_concept": 0.0,
+            "typical_of_property": 0.0
+        }
+    },
+    "spinach": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "impossible": 0.5,
+            "typical_of_concept": 0.0,
+            "variability_limited": 0.125,
+            "unusual": 0.75,
+            "typical_of_property": 0.0,
+            "affording_activity": 0.0,
+            "variability_open": 0.0,
+            "rare": 0.5,
+            "creative": 0.625,
+            "implied_category": 0.0
+        }
+    },
+    "blossom": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.8333333333333334,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "variability_open": 0.8333333333333334,
+            "impossible": 0.0,
+            "typical_of_concept": 0.16666666666666666,
+            "rare": 0.5,
+            "unusual": 0.42857142857142855,
+            "variability_limited": 0.16666666666666666,
+            "creative": 0.0,
+            "implied_category": 0.0,
+            "typical_of_property": 0.0
+        }
+    },
+    "fir": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.7142857142857143,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.14285714285714285,
+            "creative": 0.3333333333333333,
+            "variability_limited": 0.2857142857142857,
+            "unusual": 0.14285714285714285,
+            "rare": 0.0,
+            "affording_activity": 0.0,
+            "typical_of_property": 0.0,
+            "impossible": 0.7142857142857143,
+            "implied_category": 0.0,
+            "variability_open": 0.0
+        }
+    },
+    "lark": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.7142857142857143,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.2857142857142857,
+            "typical_of_property": 0.0,
+            "typical_of_concept": 0.0,
+            "variability_open": 0.2857142857142857,
+            "unusual": 0.7142857142857143,
+            "affording_activity": 0.0,
+            "creative": 0.5714285714285714,
+            "impossible": 0.2857142857142857,
+            "implied_category": 0.0,
+            "rare": 0.2857142857142857
+        }
+    },
+    "jade": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.5555555555555556,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.1111111111111111,
+            "variability_open": 0.1111111111111111,
+            "implied_category": 0.1111111111111111,
+            "typical_of_concept": 0.1111111111111111,
+            "variability_limited": 0.4444444444444444,
+            "unusual": 0.3333333333333333,
+            "typical_of_property": 0.1111111111111111,
+            "impossible": 0.5555555555555556,
+            "rare": 0.3333333333333333,
+            "creative": 0.1111111111111111
+        }
+    },
+    "slug": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.5454545454545454,
+        "metric": "prop_true",
+        "relations": {
+            "implied_category": 0.09090909090909091,
+            "variability_open": 0.2727272727272727,
+            "creative": 0.45454545454545453,
+            "typical_of_property": 0.0,
+            "unusual": 0.5454545454545454,
+            "typical_of_concept": 0.0,
+            "rare": 0.5454545454545454,
+            "affording_activity": 0.0,
+            "impossible": 0.2727272727272727,
+            "variability_limited": 0.18181818181818182
+        }
+    },
+    "broccoli": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.25,
+            "impossible": 0.75,
+            "rare": 0.125,
+            "creative": 0.375
+        }
+    },
+    "moss": {
+        "ml_label": "few-some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.5714285714285714,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_property": 0.0,
+            "unusual": 0.5714285714285714,
+            "affording_activity": 0.0,
+            "typical_of_concept": 0.0,
+            "impossible": 0.42857142857142855,
+            "creative": 0.0,
+            "variability_limited": 0.5714285714285714,
+            "implied_category": 0.0,
+            "rare": 0.5714285714285714,
+            "variability_open": 0.14285714285714285
+        }
+    },
+    "beetroot": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.7777777777777778,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_property": 0.0,
+            "creative": 0.4,
+            "variability_limited": 0.0,
+            "variability_open": 0.0,
+            "unusual": 0.36363636363636365,
+            "typical_of_concept": 0.0,
+            "rare": 0.2,
+            "implied_category": 0.0,
+            "affording_activity": 0.0,
+            "impossible": 0.7777777777777778
+        }
+    },
+    "shark": {
+        "ml_label": "some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.8888888888888888,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.2222222222222222,
+            "impossible": 0.1111111111111111,
+            "typical_of_property": 0.0,
+            "rare": 0.4444444444444444,
+            "unusual": 0.4444444444444444,
+            "affording_activity": 0.2,
+            "typical_of_concept": 0.2,
+            "variability_open": 0.0,
+            "implied_category": 0.2727272727272727,
+            "variability_limited": 0.8888888888888888
+        }
+    },
+    "football": {
+        "ml_label": "few-some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.8,
+        "metric": "prop_true",
+        "relations": {
+            "implied_category": 0.0,
+            "variability_open": 0.8,
+            "typical_of_concept": 0.0,
+            "affording_activity": 0.0,
+            "creative": 0.0,
+            "impossible": 0.2,
+            "unusual": 0.7,
+            "rare": 0.8,
+            "variability_limited": 0.09090909090909091,
+            "typical_of_property": 0.0
+        }
+    },
+    "parrotfish": {
+        "ml_label": "all",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_property": 0.2222222222222222,
+            "implied_category": 0.3333333333333333,
+            "affording_activity": 0.3333333333333333,
+            "variability_open": 0.3333333333333333,
+            "variability_limited": 0.6666666666666666,
+            "unusual": 0.1111111111111111,
+            "rare": 0.1111111111111111,
+            "creative": 0.0,
+            "typical_of_concept": 0.7777777777777778,
+            "impossible": 0.0
+        }
+    },
+    "frog": {
+        "ml_label": "few-some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.7777777777777778,
+        "metric": "prop_true",
+        "relations": {
+            "implied_category": 0.0,
+            "creative": 0.1111111111111111,
+            "typical_of_concept": 0.0,
+            "variability_open": 0.4444444444444444,
+            "unusual": 0.6666666666666666,
+            "impossible": 0.1111111111111111,
+            "affording_activity": 0.0,
+            "typical_of_property": 0.0,
+            "rare": 0.7777777777777778,
+            "variability_limited": 0.7777777777777778
+        }
+    },
+    "jeep": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.8888888888888888,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.0,
+            "creative": 0.0,
+            "impossible": 0.0,
+            "typical_of_property": 0.0,
+            "variability_open": 0.8888888888888888,
+            "implied_category": 0.0,
+            "rare": 0.2222222222222222,
+            "typical_of_concept": 0.2222222222222222,
+            "variability_limited": 0.2222222222222222,
+            "unusual": 0.1111111111111111
+        }
+    },
+    "geranium": {
+        "ml_label": "some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.6666666666666666,
+        "metric": "prop_true",
+        "relations": {
+            "impossible": 0.1111111111111111,
+            "rare": 0.3333333333333333,
+            "unusual": 0.4444444444444444,
+            "variability_limited": 0.6666666666666666,
+            "typical_of_property": 0.0,
+            "variability_open": 0.4444444444444444,
+            "typical_of_concept": 0.3333333333333333,
+            "implied_category": 0.0,
+            "affording_activity": 0.0,
+            "creative": 0.2222222222222222
+        }
+    },
+    "dogwood": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.5555555555555556,
+        "metric": "prop_true",
+        "relations": {
+            "creative": 0.2222222222222222,
+            "variability_open": 0.0,
+            "affording_activity": 0.0,
+            "typical_of_property": 0.0,
+            "unusual": 0.5555555555555556,
+            "impossible": 0.3333333333333333,
+            "implied_category": 0.0,
+            "typical_of_concept": 0.0,
+            "variability_limited": 0.3333333333333333,
+            "rare": 0.5555555555555556
+        }
+    },
+    "coal": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.5555555555555556,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.2222222222222222,
+            "affording_activity": 0.0,
+            "variability_open": 0.0,
+            "typical_of_concept": 0.0,
+            "unusual": 0.3333333333333333,
+            "typical_of_property": 0.0,
+            "rare": 0.3333333333333333,
+            "creative": 0.3333333333333333,
+            "implied_category": 0.0,
+            "impossible": 0.5555555555555556
+        }
+    },
+    "wasp": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "impossible",
+        "prop_hyp": 0.8888888888888888,
+        "metric": "prop_true",
+        "relations": {
+            "affording_activity": 0.1111111111111111,
+            "variability_open": 0.0,
+            "typical_of_property": 0.0,
+            "creative": 0.4444444444444444,
+            "typical_of_concept": 0.0,
+            "impossible": 0.8888888888888888,
+            "rare": 0.1111111111111111,
+            "implied_category": 0.0,
+            "unusual": 0.2222222222222222,
+            "variability_limited": 0.0
+        }
+    },
+    "spider": {
+        "ml_label": "few",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.5714285714285714,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.42857142857142855,
+            "variability_limited": 0.5714285714285714,
+            "impossible": 0.0,
+            "variability_open": 0.2857142857142857,
+            "creative": 0.2857142857142857,
+            "rare": 0.7142857142857143,
+            "typical_of_property": 0.0,
+            "typical_of_concept": 0.0,
+            "affording_activity": 0.14285714285714285,
+            "implied_category": 0.14285714285714285
+        }
+    },
+    "umbrella": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "variability_limited": 0.1,
+            "typical_of_concept": 0.3,
+            "affording_activity": 0.0,
+            "variability_open": 1.0,
+            "unusual": 0.0,
+            "creative": 0.0,
+            "rare": 0.0,
+            "implied_category": 0.0,
+            "typical_of_property": 0.2,
+            "impossible": 0.0
+        }
+    },
+    "bra": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 0.875,
+        "metric": "prop_true",
+        "relations": {
+            "implied_category": 0.0,
+            "affording_activity": 0.125,
+            "typical_of_concept": 0.0,
+            "variability_limited": 0.25,
+            "unusual": 0.0,
+            "creative": 0.125,
+            "impossible": 0.0,
+            "typical_of_property": 0.0,
+            "variability_open": 0.875,
+            "rare": 0.25
+        }
+    },
+    "marigold": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.75,
+        "metric": "prop_true",
+        "relations": {
+            "rare": 0.375,
+            "unusual": 0.75,
+            "affording_activity": 0.0,
+            "variability_limited": 0.125,
+            "typical_of_concept": 0.0,
+            "implied_category": 0.0,
+            "impossible": 0.5,
+            "typical_of_property": 0.0,
+            "variability_open": 0.125,
+            "creative": 0.125
+        }
+    },
+    "parrot": {
+        "ml_label": "some",
+        "hypothesis": true,
+        "rel_hyp": "variability_limited",
+        "prop_hyp": 0.5555555555555556,
+        "metric": "prop_true",
+        "relations": {
+            "impossible": 0.0,
+            "variability_limited": 0.5555555555555556,
+            "typical_of_concept": 0.3333333333333333,
+            "implied_category": 0.0,
+            "variability_open": 0.6666666666666666,
+            "creative": 0.1111111111111111,
+            "rare": 0.4444444444444444,
+            "unusual": 0.2222222222222222,
+            "typical_of_property": 0.0,
+            "affording_activity": 0.0
+        }
+    },
+    "turtle": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "unusual",
+        "prop_hyp": 0.5714285714285714,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.0,
+            "rare": 0.5714285714285714,
+            "unusual": 0.5714285714285714,
+            "typical_of_property": 0.0,
+            "affording_activity": 0.0,
+            "variability_open": 0.14285714285714285,
+            "variability_limited": 0.0,
+            "creative": 0.42857142857142855,
+            "impossible": 0.42857142857142855,
+            "implied_category": 0.0
+        }
+    },
+    "snake": {
+        "ml_label": "few",
+        "hypothesis": false,
+        "rel_hyp": "rare",
+        "prop_hyp": 0.8571428571428571,
+        "metric": "prop_true",
+        "relations": {
+            "unusual": 0.7142857142857143,
+            "variability_limited": 0.42857142857142855,
+            "affording_activity": 0.0,
+            "typical_of_concept": 0.0,
+            "typical_of_property": 0.0,
+            "creative": 0.5714285714285714,
+            "implied_category": 0.0,
+            "variability_open": 0.14285714285714285,
+            "rare": 0.8571428571428571,
+            "impossible": 0.0
+        }
+    },
+    "feather": {
+        "ml_label": "some",
+        "hypothesis": false,
+        "rel_hyp": "variability_open",
+        "prop_hyp": 1.0,
+        "metric": "prop_true",
+        "relations": {
+            "typical_of_concept": 0.0,
+            "unusual": 0.5555555555555556,
+            "creative": 0.0,
+            "rare": 0.6666666666666666,
+            "impossible": 0.0,
+            "variability_limited": 0.0,
+            "variability_open": 1.0,
+            "implied_category": 0.0,
+            "typical_of_property": 0.0,
+            "affording_activity": 0.1111111111111111
+        }
+    }
+}
