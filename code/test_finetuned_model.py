@@ -57,9 +57,9 @@ def main(dataset_path, output_filepath, model_path, batch_size, max_seq_length):
 
 if __name__ == "__main__":
 
-    dataset_path = '../data/diagnostic_dataset_1'
-    output_filepath = '../output/bert-ft-1-testpreds1.jsonl'
-    model_path = '../models/bert-ft-1'
+    dataset_path = '../data/datasets/diagnostic_dataset_1'
+    output_filepath = '../output/bert-ft-2A-testpreds1.jsonl'
+    model_path = '../models/bert-ft-2A'
     batch_size = 64
     max_seq_length = 50
     
