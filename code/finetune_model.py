@@ -163,8 +163,8 @@ def main(dataset_filepath,
 
 if __name__ == "__main__":
 
-    dataset_filepath = '../data/datasets/diagnostic_dataset_1'
-    model_path = '../models/bert-ft-1'
+    dataset_filepath = '../data/datasets/diagnostic_dataset_4B'
+    model_path = '../models/bert-ft-4B'
     pretrained_model = 'bert-base-uncased'
     batch_size = 64
     max_seq_length = 50

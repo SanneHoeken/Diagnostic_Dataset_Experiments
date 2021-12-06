@@ -73,7 +73,7 @@ def create_dataset(output_filepath, concept_pairs_file, templates_file, dataset_
     with open(concept_pairs_file, 'r') as infile:
         concept_pairs = json.load(infile)
     props = list(concept_pairs.keys())
-    properties = [p for p in props if props not in exclude_props]
+    properties = [p for p in props if p not in exclude_props]
     
     for split, size in dataset_sizes.items():
         output = []
@@ -89,9 +89,11 @@ def create_dataset(output_filepath, concept_pairs_file, templates_file, dataset_
 
 if __name__ == "__main__":
 
-    output_filepath = '../data/datasets/diagnostic_dataset_3A'
+    output_filepath = '../data/datasets/diagnostic_dataset_4B'
     concept_pairs_file = '../data/concept_pairs.json'
     templates_file = '../data/templates/templates1.txt'
-    dataset_sizes = {'train': 24000}
+    dataset_sizes = {'train': 24000, 'test':6000}
     
-    create_dataset(output_filepath, concept_pairs_file, templates_file, dataset_sizes, sim_lower=0.5)
+    create_dataset(output_filepath, concept_pairs_file, templates_file, dataset_sizes, 
+    exclude_props=['black', 'female', 'dangerous', 'lay_eggs', 'made_of_wood', 'warm', 
+    'fly', 'roll', 'cold', 'red', 'yellow', 'round', 'wheels', 'juicy'])
